@@ -1,0 +1,9 @@
+# node
+node_modules/
+.next/
+out/
+*.log
+
+# editor
+.vscode/
+.DS_Store
