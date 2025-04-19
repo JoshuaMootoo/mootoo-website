@@ -19,7 +19,8 @@
 ## 🛠 Tech Stack
 
 - [Next.js 13](https://nextjs.org/) (App Router)  
-- [TypeScript](https://www.typescriptlang.org/)  
+- [TypeScript](https://www.typescriptlang.org/)
+- OpenDyslexic font from [opendyslexic.org](https://opendyslexic.org)    
 - CSS Modules (or Tailwind CSS, if you add it later)  
 - Git & GitHub for version control  
 - Vercel for zero‑config deployment  
